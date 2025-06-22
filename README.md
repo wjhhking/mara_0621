@@ -17,6 +17,8 @@ Simulations were run for four distinct scenarios to measure the impact of adding
 -   **Mid Battery**: A 1 MWh battery using a 15/85 percentile trading strategy.
 -   **Super Battery**: A 10 MWh battery using a 20/80 percentile trading strategy.
 
+![Profit Comparison by Scenario](profit_comparison.png)
+
 ### Summary of Weekly Profits
 
 | Scenario        | Datacenter Profit | Battery P/L     | Total Weekly Profit | % Increase vs. No Battery |

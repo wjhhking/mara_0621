@@ -355,7 +355,7 @@ def run_weekly_arbitrage_simulation():
 
         weekly_results[day_name] = daily_arbitrage
 
-    output_file = "arbitrage_with_battery_result.json"
+    output_file = "arbitrage_with_small_battery_result.json"
     with open(output_file, "w") as f:
         json.dump(weekly_results, f, indent=4)
     print(f"\nSimulation complete. Results saved to {output_file}")
