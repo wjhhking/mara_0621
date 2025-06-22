@@ -152,12 +152,12 @@ def plot_weekly_prices():
 
         times = [p["timestamp"] for p in day_data]
         hash_p = [p["hash_price"] for p in day_data]
-        token_p = [p["token_price"] for p in day_data]
+        token_p = [p["token_price"] * 0.5 for p in day_data]
         energy_p = [p["energy_price"] for p in day_data]
 
         # Plot Hash and Token on the primary axis
         (p1,) = ax.plot(times, hash_p, label="Hash", color="tab:blue")
-        (p2,) = ax.plot(times, token_p, label="Token", color="tab:orange")
+        (p2,) = ax.plot(times, token_p, label="Token (scaled 0.5x)", color="tab:orange")
 
         # Use a logarithmic scale to make both price variations visible
         ax.set_yscale("log")
@@ -169,7 +169,7 @@ def plot_weekly_prices():
         )
 
         # Set labels for both axes
-        ax.set_ylabel("Hash/Token Price ($)", color="tab:blue")
+        ax.set_ylabel("Hash Price / Scaled Token Price ($)", color="tab:blue")
         ax2.set_ylabel("Energy Price ($/MWh)", color="tab:green")
 
         # Set title and x-axis formatting
@@ -190,7 +190,7 @@ def plot_weekly_prices():
 
         for day_data in all_days_data:
             avg_hash += np.array([p["hash_price"] for p in day_data])
-            avg_token += np.array([p["token_price"] for p in day_data])
+            avg_token += np.array([p["token_price"] * 0.5 for p in day_data])
             avg_energy += np.array([p["energy_price"] for p in day_data])
 
         avg_hash /= 7
@@ -204,7 +204,7 @@ def plot_weekly_prices():
         ]
 
         (p1,) = avg_ax.plot(avg_times, avg_hash, label="Avg Hash", color="tab:blue")
-        (p2,) = avg_ax.plot(avg_times, avg_token, label="Avg Token", color="tab:orange")
+        (p2,) = avg_ax.plot(avg_times, avg_token, label="Avg Token (scaled 0.5x)", color="tab:orange")
 
         ax2 = avg_ax.twinx()
         (p3,) = ax2.plot(
@@ -214,7 +214,7 @@ def plot_weekly_prices():
         # Also apply log scale to the average plot's primary axis
         avg_ax.set_yscale("log")
 
-        avg_ax.set_ylabel("Avg Hash/Token Price ($)", color="tab:blue")
+        avg_ax.set_ylabel("Avg Hash / Scaled Token Price ($)", color="tab:blue")
         ax2.set_ylabel("Avg Energy Price ($/MWh)", color="tab:green")
 
         avg_ax.set_title("Weekly Average Prices", fontsize=14)

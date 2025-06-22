@@ -1,1730 +1,1730 @@
 [
     {
-        "hash_price": 0.001016236515355297,
+        "hash_price": 0.0009761376855359782,
         "token_price": 0.0015,
-        "energy_price": 4914.65817357064,
+        "energy_price": 4898.072409822461,
         "timestamp": "2025-06-25T00:00:00"
     },
     {
-        "hash_price": 0.001016062580096016,
+        "hash_price": 0.0009711066200137463,
         "token_price": 0.0015,
-        "energy_price": 4694.541611066489,
+        "energy_price": 4853.747250910474,
         "timestamp": "2025-06-25T00:05:00"
     },
     {
-        "hash_price": 0.0010036194958372919,
+        "hash_price": 0.0009602347756799988,
         "token_price": 0.0015,
-        "energy_price": 4689.571909078715,
+        "energy_price": 4877.455275251221,
         "timestamp": "2025-06-25T00:10:00"
     },
     {
-        "hash_price": 0.0009900733453978208,
-        "token_price": 0.013729187724427657,
-        "energy_price": 4624.993605116967,
+        "hash_price": 0.0009597300126403587,
+        "token_price": 0.0015,
+        "energy_price": 4667.863230165505,
         "timestamp": "2025-06-25T00:15:00"
     },
     {
-        "hash_price": 0.0010101855379235115,
-        "token_price": 0.013729187724427657,
-        "energy_price": 4736.298632350339,
+        "hash_price": 0.0009597344920799082,
+        "token_price": 0.0015,
+        "energy_price": 4630.209464952721,
         "timestamp": "2025-06-25T00:20:00"
     },
     {
-        "hash_price": 0.0009886761216646722,
-        "token_price": 0.013729187724427657,
-        "energy_price": 4572.889955439133,
+        "hash_price": 0.0009639332246750603,
+        "token_price": 0.0015,
+        "energy_price": 4373.1799508570075,
         "timestamp": "2025-06-25T00:25:00"
     },
     {
-        "hash_price": 0.000984857373702624,
-        "token_price": 0.013729187724427657,
-        "energy_price": 4546.526104014211,
+        "hash_price": 0.0009445171926723704,
+        "token_price": 0.0015,
+        "energy_price": 4343.98378804207,
         "timestamp": "2025-06-25T00:30:00"
     },
     {
-        "hash_price": 0.0009671177458439087,
-        "token_price": 0.013729187724427657,
-        "energy_price": 4431.102245251096,
+        "hash_price": 0.0009517940429091976,
+        "token_price": 0.0015,
+        "energy_price": 4448.233530372394,
         "timestamp": "2025-06-25T00:35:00"
     },
     {
-        "hash_price": 0.0009627794837664156,
-        "token_price": 0.013729187724427657,
-        "energy_price": 4254.684722181802,
+        "hash_price": 0.0009366476272940813,
+        "token_price": 0.0015,
+        "energy_price": 4360.707802003006,
         "timestamp": "2025-06-25T00:40:00"
     },
     {
-        "hash_price": 0.0009661163229936522,
-        "token_price": 0.013729187724427657,
-        "energy_price": 4236.663278697951,
+        "hash_price": 0.0009588828828314366,
+        "token_price": 0.0015,
+        "energy_price": 4299.339867893751,
         "timestamp": "2025-06-25T00:45:00"
     },
     {
-        "hash_price": 0.0009683743323133929,
-        "token_price": 0.013729187724427657,
-        "energy_price": 4261.15429019451,
+        "hash_price": 0.0009478211535609191,
+        "token_price": 0.0015,
+        "energy_price": 4375.561324167252,
         "timestamp": "2025-06-25T00:50:00"
     },
     {
-        "hash_price": 0.0009729110966236235,
-        "token_price": 0.013729187724427657,
-        "energy_price": 4013.7931034839503,
+        "hash_price": 0.0009421622014764849,
+        "token_price": 0.0015,
+        "energy_price": 4064.344005954524,
         "timestamp": "2025-06-25T00:55:00"
     },
     {
-        "hash_price": 0.0009685037830223768,
-        "token_price": 0.013729187724427657,
-        "energy_price": 4014.0943266225313,
+        "hash_price": 0.0009608861065289859,
+        "token_price": 0.0015,
+        "energy_price": 3978.500020641075,
         "timestamp": "2025-06-25T01:00:00"
     },
     {
-        "hash_price": 0.0009557727392089646,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1596.1144186402146,
+        "hash_price": 0.0009651894859126053,
+        "token_price": 0.0015,
+        "energy_price": 1741.5839837590956,
         "timestamp": "2025-06-25T01:05:00"
     },
     {
-        "hash_price": 0.0009544991145944766,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1529.1374000211838,
+        "hash_price": 0.0009595527589413359,
+        "token_price": 0.0015,
+        "energy_price": 1560.9114731692544,
         "timestamp": "2025-06-25T01:10:00"
     },
     {
-        "hash_price": 0.0009565460983490587,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1599.4938963890297,
+        "hash_price": 0.0009540171002117932,
+        "token_price": 0.0015,
+        "energy_price": 1464.8923485371215,
         "timestamp": "2025-06-25T01:15:00"
     },
     {
-        "hash_price": 0.0009554666094154234,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1360.7044539313988,
+        "hash_price": 0.0009282327214423226,
+        "token_price": 0.0015,
+        "energy_price": 1482.595290578586,
         "timestamp": "2025-06-25T01:20:00"
     },
     {
-        "hash_price": 0.0009350426712067748,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1490.9201416808648,
+        "hash_price": 0.0009073765697044592,
+        "token_price": 0.0015,
+        "energy_price": 1336.7993344364925,
         "timestamp": "2025-06-25T01:25:00"
     },
     {
-        "hash_price": 0.000922331818691887,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1477.6039676758103,
+        "hash_price": 0.000900931378038195,
+        "token_price": 0.0015,
+        "energy_price": 1605.6537145572236,
         "timestamp": "2025-06-25T01:30:00"
     },
     {
-        "hash_price": 0.0009322993942090619,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1383.2643798254433,
+        "hash_price": 0.0009105089567290071,
+        "token_price": 0.0015,
+        "energy_price": 1387.3437680353504,
         "timestamp": "2025-06-25T01:35:00"
     },
     {
-        "hash_price": 0.0009404240839554667,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1463.3963420591454,
+        "hash_price": 0.0009056780019267342,
+        "token_price": 0.0015,
+        "energy_price": 1413.7142052880395,
         "timestamp": "2025-06-25T01:40:00"
     },
     {
-        "hash_price": 0.0009543409308528857,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1562.555486981445,
+        "hash_price": 0.0009109627487720369,
+        "token_price": 0.0015,
+        "energy_price": 1340.6791309423522,
         "timestamp": "2025-06-25T01:45:00"
     },
     {
-        "hash_price": 0.0009456247493909938,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1289.4327112012163,
+        "hash_price": 0.0009137970901452981,
+        "token_price": 0.0015,
+        "energy_price": 1170.4339562510636,
         "timestamp": "2025-06-25T01:50:00"
     },
     {
-        "hash_price": 0.0009497736910751946,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1169.5708177925587,
+        "hash_price": 0.0009000713854305476,
+        "token_price": 0.0015,
+        "energy_price": 1142.6915859817475,
         "timestamp": "2025-06-25T01:55:00"
     },
     {
-        "hash_price": 0.0009462198506194804,
-        "token_price": 0.013729187724427657,
-        "energy_price": 1195.3046057917768,
+        "hash_price": 0.0008979179563159416,
+        "token_price": 0.0015,
+        "energy_price": 1315.7521923241811,
         "timestamp": "2025-06-25T02:00:00"
     },
     {
-        "hash_price": 0.0009267919300380936,
+        "hash_price": 0.0008815599813315105,
         "token_price": 0.0015,
-        "energy_price": 1296.5940594896515,
+        "energy_price": 1211.7687856579507,
         "timestamp": "2025-06-25T02:05:00"
     },
     {
-        "hash_price": 0.000945462879577714,
+        "hash_price": 0.000888863106730692,
         "token_price": 0.0015,
-        "energy_price": 1274.7268114054891,
+        "energy_price": 1239.2034426815903,
         "timestamp": "2025-06-25T02:10:00"
     },
     {
-        "hash_price": 0.0009434555400405549,
+        "hash_price": 0.0008867909095677426,
         "token_price": 0.0015,
-        "energy_price": 1270.451204530511,
+        "energy_price": 1203.2356930134652,
         "timestamp": "2025-06-25T02:15:00"
     },
     {
-        "hash_price": 0.0009395627904808366,
+        "hash_price": 0.0008779182931911268,
         "token_price": 0.0015,
-        "energy_price": 1147.2523064791549,
+        "energy_price": 1152.7617821073038,
         "timestamp": "2025-06-25T02:20:00"
     },
     {
-        "hash_price": 0.0009564784864293049,
+        "hash_price": 0.0008694588987098934,
         "token_price": 0.0015,
-        "energy_price": 1145.9649185939284,
+        "energy_price": 1047.9499211179261,
         "timestamp": "2025-06-25T02:25:00"
     },
     {
-        "hash_price": 0.0009736737711383782,
+        "hash_price": 0.0008680971991606054,
         "token_price": 0.0015,
-        "energy_price": 1046.7780316361946,
+        "energy_price": 999.9244116125158,
         "timestamp": "2025-06-25T02:30:00"
     },
     {
-        "hash_price": 0.00098788968165033,
+        "hash_price": 0.0008691651952024384,
         "token_price": 0.0015,
-        "energy_price": 1005.4644406479257,
+        "energy_price": 1038.7963992405005,
         "timestamp": "2025-06-25T02:35:00"
     },
     {
-        "hash_price": 0.000985872338878469,
+        "hash_price": 0.0008816623848146363,
         "token_price": 0.0015,
-        "energy_price": 1103.254787324461,
+        "energy_price": 902.5233512931936,
         "timestamp": "2025-06-25T02:40:00"
     },
     {
-        "hash_price": 0.0009919207018713118,
+        "hash_price": 0.000880847255685722,
         "token_price": 0.0015,
-        "energy_price": 977.0246745557221,
+        "energy_price": 877.2723874246581,
         "timestamp": "2025-06-25T02:45:00"
     },
     {
-        "hash_price": 0.0009857899418594142,
+        "hash_price": 0.0008845174915372588,
         "token_price": 0.0015,
-        "energy_price": 1044.5005666543161,
+        "energy_price": 819.9072704901203,
         "timestamp": "2025-06-25T02:50:00"
     },
     {
-        "hash_price": 0.0009960465406923988,
+        "hash_price": 0.0008736842766109452,
         "token_price": 0.0015,
-        "energy_price": 908.1165834939098,
+        "energy_price": 1016.0128315350303,
         "timestamp": "2025-06-25T02:55:00"
     },
     {
-        "hash_price": 0.0010119215093754397,
+        "hash_price": 0.000877903607635601,
         "token_price": 0.0015,
-        "energy_price": 784.7910800840548,
+        "energy_price": 989.2192669856847,
         "timestamp": "2025-06-25T03:00:00"
     },
     {
-        "hash_price": 0.0010062598238414224,
+        "hash_price": 0.0008739376431061593,
         "token_price": 0.0015,
-        "energy_price": 860.2735492952122,
+        "energy_price": 1042.4376040312695,
         "timestamp": "2025-06-25T03:05:00"
     },
     {
-        "hash_price": 0.0009975163168338555,
+        "hash_price": 0.0008866060419657134,
         "token_price": 0.0015,
-        "energy_price": 740.6594129530187,
+        "energy_price": 728.7574830678461,
         "timestamp": "2025-06-25T03:10:00"
     },
     {
-        "hash_price": 0.0009692217362067529,
+        "hash_price": 0.0008898332184332479,
         "token_price": 0.0015,
-        "energy_price": 765.3615393590021,
+        "energy_price": 708.6858971817373,
         "timestamp": "2025-06-25T03:15:00"
     },
     {
-        "hash_price": 0.0009673667011841627,
+        "hash_price": 0.0008806799011781982,
         "token_price": 0.0015,
-        "energy_price": 756.1576073645681,
+        "energy_price": 815.2890194849183,
         "timestamp": "2025-06-25T03:20:00"
     },
     {
-        "hash_price": 0.0009905343064769547,
+        "hash_price": 0.0008974433366091618,
         "token_price": 0.0015,
-        "energy_price": 673.836367760495,
+        "energy_price": 963.9531471904098,
         "timestamp": "2025-06-25T03:25:00"
     },
     {
-        "hash_price": 0.0009968093167020777,
+        "hash_price": 0.0008956909327345851,
         "token_price": 0.0015,
-        "energy_price": 699.8560816425659,
+        "energy_price": 712.3275316107521,
         "timestamp": "2025-06-25T03:30:00"
     },
     {
-        "hash_price": 0.0009897417644601227,
+        "hash_price": 0.0008907395989004818,
         "token_price": 0.0015,
-        "energy_price": 843.3273681313376,
+        "energy_price": 712.4318761390539,
         "timestamp": "2025-06-25T03:35:00"
     },
     {
-        "hash_price": 0.0009955531400202273,
+        "hash_price": 0.0008991750943399654,
         "token_price": 0.0015,
-        "energy_price": 745.7653989898854,
+        "energy_price": 688.4747157192323,
         "timestamp": "2025-06-25T03:40:00"
     },
     {
-        "hash_price": 0.001007164006295332,
+        "hash_price": 0.0009095521910133346,
         "token_price": 0.0015,
-        "energy_price": 791.1213211041963,
+        "energy_price": 659.027088008305,
         "timestamp": "2025-06-25T03:45:00"
     },
     {
-        "hash_price": 0.0009942236860437323,
+        "hash_price": 0.0009322696226939649,
         "token_price": 0.0015,
-        "energy_price": 626.9915993875445,
+        "energy_price": 623.566943868505,
         "timestamp": "2025-06-25T03:50:00"
     },
     {
-        "hash_price": 0.0009832203087470563,
+        "hash_price": 0.0009479610068666,
         "token_price": 0.0015,
-        "energy_price": 645.2792097668137,
+        "energy_price": 523.9613535893724,
         "timestamp": "2025-06-25T03:55:00"
     },
     {
-        "hash_price": 0.0009872942148817935,
+        "hash_price": 0.0009796440136965751,
         "token_price": 0.0015,
-        "energy_price": 710.6315990877822,
+        "energy_price": 598.5489962660187,
         "timestamp": "2025-06-25T04:00:00"
     },
     {
-        "hash_price": 0.0009903471536798806,
+        "hash_price": 0.0009812365098732516,
         "token_price": 0.0015,
-        "energy_price": 375.77841448016454,
+        "energy_price": 598.6709762687206,
         "timestamp": "2025-06-25T04:05:00"
     },
     {
-        "hash_price": 0.0009750275024653247,
+        "hash_price": 0.0009646899826736198,
         "token_price": 0.0015,
-        "energy_price": 448.2339114993013,
+        "energy_price": 636.7035551981841,
         "timestamp": "2025-06-25T04:10:00"
     },
     {
-        "hash_price": 0.0009897384985024715,
+        "hash_price": 0.0009840546475099715,
         "token_price": 0.0015,
-        "energy_price": 559.2170634944962,
+        "energy_price": 589.8730980703365,
         "timestamp": "2025-06-25T04:15:00"
     },
     {
-        "hash_price": 0.0009884409436238726,
+        "hash_price": 0.0009852285411324705,
         "token_price": 0.0015,
-        "energy_price": 341.47658264772576,
+        "energy_price": 520.280035446899,
         "timestamp": "2025-06-25T04:20:00"
     },
     {
-        "hash_price": 0.0009744904470088325,
+        "hash_price": 0.00096708542621121,
         "token_price": 0.0015,
-        "energy_price": 635.4898559536252,
+        "energy_price": 595.6068521511493,
         "timestamp": "2025-06-25T04:25:00"
     },
     {
-        "hash_price": 0.000990257296360477,
+        "hash_price": 0.0009684734844287858,
         "token_price": 0.0015,
-        "energy_price": 458.4521831334431,
+        "energy_price": 490.1220091125822,
         "timestamp": "2025-06-25T04:30:00"
     },
     {
-        "hash_price": 0.0009820483599960877,
+        "hash_price": 0.0009519513355632335,
         "token_price": 0.0015,
-        "energy_price": 621.1827197185102,
+        "energy_price": 355.9186295078757,
         "timestamp": "2025-06-25T04:35:00"
     },
     {
-        "hash_price": 0.0009872989985075012,
+        "hash_price": 0.0009675186380093015,
         "token_price": 0.0015,
-        "energy_price": 478.88609874222396,
+        "energy_price": 388.46601089945386,
         "timestamp": "2025-06-25T04:40:00"
     },
     {
-        "hash_price": 0.00098275403256185,
+        "hash_price": 0.0009856570656742267,
         "token_price": 0.0015,
-        "energy_price": 366.472372757251,
+        "energy_price": 487.80234014509887,
         "timestamp": "2025-06-25T04:45:00"
     },
     {
-        "hash_price": 0.0009666410895140428,
+        "hash_price": 0.000998848966460287,
         "token_price": 0.0015,
-        "energy_price": 417.9681033821126,
+        "energy_price": 430.39362610561864,
         "timestamp": "2025-06-25T04:50:00"
     },
     {
-        "hash_price": 0.0009646467743896365,
+        "hash_price": 0.0009946858401139777,
         "token_price": 0.0015,
-        "energy_price": 386.14604820713123,
+        "energy_price": 452.49157943653074,
         "timestamp": "2025-06-25T04:55:00"
     },
     {
-        "hash_price": 0.0009662389862910681,
+        "hash_price": 0.0009866552694681081,
         "token_price": 0.0015,
-        "energy_price": 365.29562975124946,
+        "energy_price": 405.0050252432572,
         "timestamp": "2025-06-25T05:00:00"
     },
     {
-        "hash_price": 0.0009680166504434563,
+        "hash_price": 0.0009843930663180503,
         "token_price": 0.0015,
-        "energy_price": 441.10228411526964,
+        "energy_price": 399.8034830469512,
         "timestamp": "2025-06-25T05:05:00"
     },
     {
-        "hash_price": 0.0009686937833488054,
+        "hash_price": 0.000983890237259011,
         "token_price": 0.0015,
-        "energy_price": 442.09915810508005,
+        "energy_price": 394.1047575799572,
         "timestamp": "2025-06-25T05:10:00"
     },
     {
-        "hash_price": 0.000990075716860811,
+        "hash_price": 0.0009837930171556263,
         "token_price": 0.0015,
-        "energy_price": 318.102018377422,
+        "energy_price": 354.2857716168362,
         "timestamp": "2025-06-25T05:15:00"
     },
     {
-        "hash_price": 0.0010115620642358774,
+        "hash_price": 0.0009811865744902327,
         "token_price": 0.0015,
-        "energy_price": 367.89518728943386,
+        "energy_price": 288.7015649017024,
         "timestamp": "2025-06-25T05:20:00"
     },
     {
-        "hash_price": 0.001002955864740401,
+        "hash_price": 0.0009854657015705014,
         "token_price": 0.0015,
-        "energy_price": 338.9302434507284,
+        "energy_price": 438.53544492439204,
         "timestamp": "2025-06-25T05:25:00"
     },
     {
-        "hash_price": 0.0010123481552735405,
+        "hash_price": 0.000982352413662336,
         "token_price": 0.0015,
-        "energy_price": 378.1320099270843,
+        "energy_price": 255.02411158372425,
         "timestamp": "2025-06-25T05:30:00"
     },
     {
-        "hash_price": 0.001020211062998473,
-        "token_price": 0.012791562241243266,
-        "energy_price": 295.13205288141313,
+        "hash_price": 0.0009690810380495943,
+        "token_price": 0.0015,
+        "energy_price": 306.7494202947371,
         "timestamp": "2025-06-25T05:35:00"
     },
     {
-        "hash_price": 0.0010282535582265568,
-        "token_price": 0.012791562241243266,
-        "energy_price": 223.18749222806628,
+        "hash_price": 0.0009697118051065822,
+        "token_price": 0.0015,
+        "energy_price": 314.9163855589982,
         "timestamp": "2025-06-25T05:40:00"
     },
     {
-        "hash_price": 0.0010223612288549587,
-        "token_price": 0.012791562241243266,
-        "energy_price": 335.032859562965,
+        "hash_price": 0.0009573127136760595,
+        "token_price": 0.0015,
+        "energy_price": 322.6588005516784,
         "timestamp": "2025-06-25T05:45:00"
     },
     {
-        "hash_price": 0.0010164587460284745,
-        "token_price": 0.012791562241243266,
-        "energy_price": 332.9745529927934,
+        "hash_price": 0.0009504292421816971,
+        "token_price": 0.0015,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T05:50:00"
     },
     {
-        "hash_price": 0.0010273029821112351,
-        "token_price": 0.012791562241243266,
-        "energy_price": 213.96175145669292,
+        "hash_price": 0.0009469385631770849,
+        "token_price": 0.0015,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T05:55:00"
     },
     {
-        "hash_price": 0.0010289884277056949,
-        "token_price": 0.012791562241243266,
-        "energy_price": 305.9306482495375,
+        "hash_price": 0.0009560538995795122,
+        "token_price": 0.0015,
+        "energy_price": 243.2809771710634,
         "timestamp": "2025-06-25T06:00:00"
     },
     {
-        "hash_price": 0.0010455171945749585,
-        "token_price": 0.012791562241243266,
-        "energy_price": 200.0,
+        "hash_price": 0.0009454169581816829,
+        "token_price": 0.0015,
+        "energy_price": 210.075797205213,
         "timestamp": "2025-06-25T06:05:00"
     },
     {
-        "hash_price": 0.0010372052266460628,
-        "token_price": 0.012791562241243266,
-        "energy_price": 275.9479023192386,
+        "hash_price": 0.0009454016049620204,
+        "token_price": 0.0015,
+        "energy_price": 251.73746785050665,
         "timestamp": "2025-06-25T06:10:00"
     },
     {
-        "hash_price": 0.0010232323598874601,
-        "token_price": 0.012791562241243266,
-        "energy_price": 200.0,
+        "hash_price": 0.000954966143258759,
+        "token_price": 0.0015,
+        "energy_price": 239.7408470546066,
         "timestamp": "2025-06-25T06:15:00"
     },
     {
-        "hash_price": 0.0010276796442872545,
-        "token_price": 0.012791562241243266,
-        "energy_price": 200.0,
+        "hash_price": 0.0009487519651285591,
+        "token_price": 0.0015,
+        "energy_price": 242.65289846390803,
         "timestamp": "2025-06-25T06:20:00"
     },
     {
-        "hash_price": 0.0010207802649734852,
-        "token_price": 0.012791562241243266,
+        "hash_price": 0.0009698203490721235,
+        "token_price": 0.0015,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T06:25:00"
     },
     {
-        "hash_price": 0.0010310242659272541,
-        "token_price": 0.012791562241243266,
-        "energy_price": 200.0,
+        "hash_price": 0.0009725645052771648,
+        "token_price": 0.0015,
+        "energy_price": 227.98961530152965,
         "timestamp": "2025-06-25T06:30:00"
     },
     {
-        "hash_price": 0.0010014210494342082,
-        "token_price": 0.012791562241243266,
-        "energy_price": 286.21011629826904,
+        "hash_price": 0.0009701274156013461,
+        "token_price": 0.0015,
+        "energy_price": 255.6006724224169,
         "timestamp": "2025-06-25T06:35:00"
     },
     {
-        "hash_price": 0.0009999520239305166,
-        "token_price": 0.012791562241243266,
-        "energy_price": 200.0,
+        "hash_price": 0.0009697457277151598,
+        "token_price": 0.0015,
+        "energy_price": 229.55424386598526,
         "timestamp": "2025-06-25T06:40:00"
     },
     {
-        "hash_price": 0.0010137635895006672,
-        "token_price": 0.012791562241243266,
-        "energy_price": 200.0,
+        "hash_price": 0.000963269274771033,
+        "token_price": 0.0015,
+        "energy_price": 359.4546581714704,
         "timestamp": "2025-06-25T06:45:00"
     },
     {
-        "hash_price": 0.0010104974051657338,
-        "token_price": 0.012791562241243266,
+        "hash_price": 0.0009506691106873643,
+        "token_price": 0.0015,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T06:50:00"
     },
     {
-        "hash_price": 0.0010102183667567407,
-        "token_price": 0.012791562241243266,
+        "hash_price": 0.0009325458680115233,
+        "token_price": 0.0015,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T06:55:00"
     },
     {
-        "hash_price": 0.0010131373447334066,
-        "token_price": 0.012791562241243266,
+        "hash_price": 0.0009477284015615405,
+        "token_price": 0.0015,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T07:00:00"
     },
     {
-        "hash_price": 0.0010354519173905146,
-        "token_price": 0.012916562241243264,
+        "hash_price": 0.000939873770304862,
+        "token_price": 0.0016249999999999995,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T07:05:00"
     },
     {
-        "hash_price": 0.0010456474173654877,
-        "token_price": 0.013041562241243263,
+        "hash_price": 0.0009542762561697341,
+        "token_price": 0.0017499999999999992,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T07:10:00"
     },
     {
-        "hash_price": 0.0010348976435890268,
-        "token_price": 0.013166562241243266,
+        "hash_price": 0.0009575120037517478,
+        "token_price": 0.001875,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T07:15:00"
     },
     {
-        "hash_price": 0.001031590569476736,
-        "token_price": 0.013291562241243265,
-        "energy_price": 214.27896331676806,
+        "hash_price": 0.0009366923076171248,
+        "token_price": 0.0019999999999999996,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T07:20:00"
     },
     {
-        "hash_price": 0.0010191344867057132,
-        "token_price": 0.013416562241243263,
+        "hash_price": 0.0009415375009497687,
+        "token_price": 0.0021249999999999993,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T07:25:00"
     },
     {
-        "hash_price": 0.0010204569039227317,
+        "hash_price": 0.0009259348940849593,
         "token_price": 0.0022500000000000003,
-        "energy_price": 200.0,
+        "energy_price": 220.8506532462693,
         "timestamp": "2025-06-25T07:30:00"
     },
     {
-        "hash_price": 0.0010272660661285022,
+        "hash_price": 0.0009315944974965048,
         "token_price": 0.0023749999999999995,
-        "energy_price": 226.07371196377358,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T07:35:00"
     },
     {
-        "hash_price": 0.001023026196240167,
+        "hash_price": 0.0009436754367742502,
         "token_price": 0.002499999999999999,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T07:40:00"
     },
     {
-        "hash_price": 0.0010213345126139101,
+        "hash_price": 0.0009514380918333869,
         "token_price": 0.002625,
-        "energy_price": 200.0,
+        "energy_price": 201.64087831944062,
         "timestamp": "2025-06-25T07:45:00"
     },
     {
-        "hash_price": 0.0010364480078109064,
+        "hash_price": 0.0009442039228913596,
         "token_price": 0.0027499999999999994,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T07:50:00"
     },
     {
-        "hash_price": 0.0010285034256434526,
+        "hash_price": 0.0009430494056293933,
         "token_price": 0.002874999999999999,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T07:55:00"
     },
     {
-        "hash_price": 0.0010276150564601197,
+        "hash_price": 0.0009359333625223568,
         "token_price": 0.003,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T08:00:00"
     },
     {
-        "hash_price": 0.0010416576270321568,
+        "hash_price": 0.0009174780001913889,
         "token_price": 0.0031249999999999984,
-        "energy_price": 218.07231976597163,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T08:05:00"
     },
     {
-        "hash_price": 0.0010423690183320325,
+        "hash_price": 0.000910946704298989,
         "token_price": 0.003249999999999999,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T08:10:00"
     },
     {
-        "hash_price": 0.0010540507719557057,
+        "hash_price": 0.0009104807902260174,
         "token_price": 0.003375,
-        "energy_price": 202.68163028308308,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T08:15:00"
     },
     {
-        "hash_price": 0.0010219027556328966,
+        "hash_price": 0.0009031885213436502,
         "token_price": 0.0034999999999999983,
-        "energy_price": 200.0,
+        "energy_price": 291.3473109446627,
         "timestamp": "2025-06-25T08:20:00"
     },
     {
-        "hash_price": 0.0010233356360345306,
+        "hash_price": 0.0009161489588968355,
         "token_price": 0.0036249999999999993,
-        "energy_price": 218.23601411948158,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T08:25:00"
     },
     {
-        "hash_price": 0.001019915263125716,
+        "hash_price": 0.0008991238541594674,
         "token_price": 0.00375,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T08:30:00"
     },
     {
-        "hash_price": 0.0010234635527744808,
+        "hash_price": 0.0008919258869172513,
         "token_price": 0.0038749999999999982,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T08:35:00"
     },
     {
-        "hash_price": 0.0010236254245763758,
+        "hash_price": 0.0008810344014366107,
         "token_price": 0.003999999999999999,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T08:40:00"
     },
     {
-        "hash_price": 0.0010081473755530086,
+        "hash_price": 0.0008831915019472348,
         "token_price": 0.004125,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T08:45:00"
     },
     {
-        "hash_price": 0.0010188365209334981,
+        "hash_price": 0.0008858819095929758,
         "token_price": 0.004249999999999999,
-        "energy_price": 200.0,
+        "energy_price": 371.3313586593173,
         "timestamp": "2025-06-25T08:50:00"
     },
     {
-        "hash_price": 0.0010311469640071778,
+        "hash_price": 0.0008977049798365063,
         "token_price": 0.0043749999999999995,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T08:55:00"
     },
     {
-        "hash_price": 0.0010245295302534394,
+        "hash_price": 0.0009061258471493118,
         "token_price": 0.0045000000000000005,
-        "energy_price": 289.084445959328,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T09:00:00"
     },
     {
-        "hash_price": 0.0010167481274245096,
+        "hash_price": 0.0008999271892030734,
         "token_price": 0.0045000000000000005,
-        "energy_price": 213.66637215884467,
+        "energy_price": 218.4828426867997,
         "timestamp": "2025-06-25T09:05:00"
     },
     {
-        "hash_price": 0.0010316075289399167,
+        "hash_price": 0.0009056756921142726,
         "token_price": 0.0045000000000000005,
-        "energy_price": 221.2332267080289,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T09:10:00"
     },
     {
-        "hash_price": 0.0010346371465113275,
+        "hash_price": 0.0009037659930134917,
         "token_price": 0.0045000000000000005,
-        "energy_price": 210.6895663908446,
+        "energy_price": 299.53472933724856,
         "timestamp": "2025-06-25T09:15:00"
     },
     {
-        "hash_price": 0.0010379521358023884,
+        "hash_price": 0.0008982405651638061,
         "token_price": 0.0045000000000000005,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T09:20:00"
     },
     {
-        "hash_price": 0.0010115632836445573,
+        "hash_price": 0.000908388057251304,
         "token_price": 0.0045000000000000005,
         "energy_price": 200.0,
         "timestamp": "2025-06-25T09:25:00"
     },
     {
-        "hash_price": 0.0010110806000190751,
+        "hash_price": 0.0009097057048281824,
         "token_price": 0.0045000000000000005,
-        "energy_price": 200.0,
+        "energy_price": 233.21434651288453,
         "timestamp": "2025-06-25T09:30:00"
     },
     {
-        "hash_price": 0.001023192012348368,
+        "hash_price": 0.0009195902306208649,
         "token_price": 0.0045000000000000005,
-        "energy_price": 311.8306642665919,
+        "energy_price": 407.4847808495639,
         "timestamp": "2025-06-25T09:35:00"
     },
     {
-        "hash_price": 0.0010318467555829657,
+        "hash_price": 0.000914934397901405,
         "token_price": 0.0045000000000000005,
-        "energy_price": 366.28711933802595,
+        "energy_price": 236.31371012058986,
         "timestamp": "2025-06-25T09:40:00"
     },
     {
-        "hash_price": 0.0010596408813013524,
+        "hash_price": 0.0009125520021722399,
         "token_price": 0.0045000000000000005,
-        "energy_price": 290.6189976450353,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T09:45:00"
     },
     {
-        "hash_price": 0.0010597559048078024,
+        "hash_price": 0.0009078897892424918,
         "token_price": 0.0045000000000000005,
-        "energy_price": 229.71958780015404,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T09:50:00"
     },
     {
-        "hash_price": 0.0010836951850470469,
+        "hash_price": 0.0008963504833378606,
         "token_price": 0.0045000000000000005,
-        "energy_price": 261.8994122899621,
+        "energy_price": 319.29253570882446,
         "timestamp": "2025-06-25T09:55:00"
     },
     {
-        "hash_price": 0.0010865172478322466,
+        "hash_price": 0.0009264629086218898,
         "token_price": 0.0045000000000000005,
-        "energy_price": 200.0,
+        "energy_price": 234.44228086911522,
         "timestamp": "2025-06-25T10:00:00"
     },
     {
-        "hash_price": 0.0010791967892997412,
+        "hash_price": 0.0009113099677617252,
         "token_price": 0.0045000000000000005,
-        "energy_price": 200.0,
+        "energy_price": 333.60913472878906,
         "timestamp": "2025-06-25T10:05:00"
     },
     {
-        "hash_price": 0.0010654736143661837,
+        "hash_price": 0.0009031116115328603,
         "token_price": 0.0045000000000000005,
-        "energy_price": 200.0,
+        "energy_price": 200.795403429442,
         "timestamp": "2025-06-25T10:10:00"
     },
     {
-        "hash_price": 0.001073961541063209,
+        "hash_price": 0.0008861403717379082,
         "token_price": 0.0045000000000000005,
-        "energy_price": 200.0,
+        "energy_price": 275.92345677431075,
         "timestamp": "2025-06-25T10:15:00"
     },
     {
-        "hash_price": 0.0010608847102631348,
+        "hash_price": 0.0009085872474365789,
         "token_price": 0.0045000000000000005,
-        "energy_price": 292.0003915966769,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T10:20:00"
     },
     {
-        "hash_price": 0.0010528313557214182,
+        "hash_price": 0.0009095973538154685,
         "token_price": 0.0045000000000000005,
-        "energy_price": 200.0,
+        "energy_price": 368.2311297064947,
         "timestamp": "2025-06-25T10:25:00"
     },
     {
-        "hash_price": 0.0010322957028715519,
+        "hash_price": 0.0009087770981692725,
         "token_price": 0.0045000000000000005,
-        "energy_price": 367.4834649528737,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T10:30:00"
     },
     {
-        "hash_price": 0.0010210158655759127,
+        "hash_price": 0.0009167674934604714,
         "token_price": 0.0045000000000000005,
-        "energy_price": 200.0,
+        "energy_price": 293.1065039108908,
         "timestamp": "2025-06-25T10:35:00"
     },
     {
-        "hash_price": 0.0010231191906439495,
+        "hash_price": 0.000933086418550525,
         "token_price": 0.0045000000000000005,
-        "energy_price": 339.6529655550833,
+        "energy_price": 289.7366260916991,
         "timestamp": "2025-06-25T10:40:00"
     },
     {
-        "hash_price": 0.001044476442267184,
+        "hash_price": 0.0009147437742402533,
         "token_price": 0.0045000000000000005,
-        "energy_price": 269.07105320602744,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T10:45:00"
     },
     {
-        "hash_price": 0.0010655866770671947,
+        "hash_price": 0.0008990593435788144,
         "token_price": 0.0045000000000000005,
-        "energy_price": 556.8474559025658,
+        "energy_price": 465.43246129923085,
         "timestamp": "2025-06-25T10:50:00"
     },
     {
-        "hash_price": 0.0010807104453433353,
+        "hash_price": 0.0009052636306485306,
         "token_price": 0.0045000000000000005,
-        "energy_price": 404.3846701855668,
+        "energy_price": 236.91386775243484,
         "timestamp": "2025-06-25T10:55:00"
     },
     {
-        "hash_price": 0.0010923675360428027,
+        "hash_price": 0.0009007777317675303,
         "token_price": 0.0045000000000000005,
-        "energy_price": 200.0,
+        "energy_price": 391.6076263439816,
         "timestamp": "2025-06-25T11:00:00"
     },
     {
-        "hash_price": 0.0010753645881884481,
+        "hash_price": 0.000901057925356862,
         "token_price": 0.0045000000000000005,
-        "energy_price": 200.0,
+        "energy_price": 293.3134851257024,
         "timestamp": "2025-06-25T11:05:00"
     },
     {
-        "hash_price": 0.001092877294141238,
+        "hash_price": 0.0009021989547204571,
         "token_price": 0.0045000000000000005,
-        "energy_price": 425.62018500593285,
+        "energy_price": 309.28893631824013,
         "timestamp": "2025-06-25T11:10:00"
     },
     {
-        "hash_price": 0.0010990909998257537,
+        "hash_price": 0.0008993158480102838,
         "token_price": 0.0045000000000000005,
-        "energy_price": 536.1977502614061,
+        "energy_price": 200.0,
         "timestamp": "2025-06-25T11:15:00"
     },
     {
-        "hash_price": 0.001102545337126552,
+        "hash_price": 0.0009181029135626644,
         "token_price": 0.0045000000000000005,
-        "energy_price": 348.1883877840811,
+        "energy_price": 343.0391347935283,
         "timestamp": "2025-06-25T11:20:00"
     },
     {
-        "hash_price": 0.0010856349986102575,
+        "hash_price": 0.000910662318103077,
         "token_price": 0.0045000000000000005,
-        "energy_price": 365.6394069200668,
+        "energy_price": 360.67276440587597,
         "timestamp": "2025-06-25T11:25:00"
     },
     {
-        "hash_price": 0.0010787529857541353,
+        "hash_price": 0.0009159458676210699,
         "token_price": 0.0045000000000000005,
-        "energy_price": 479.6583487327373,
+        "energy_price": 412.92446131633534,
         "timestamp": "2025-06-25T11:30:00"
     },
     {
-        "hash_price": 0.0010669458480527321,
+        "hash_price": 0.000914968242956143,
         "token_price": 0.0045000000000000005,
-        "energy_price": 640.8661069671402,
+        "energy_price": 383.02732130119097,
         "timestamp": "2025-06-25T11:35:00"
     },
     {
-        "hash_price": 0.0010624185052374516,
+        "hash_price": 0.0009119369941339686,
         "token_price": 0.0045000000000000005,
-        "energy_price": 455.83478382723047,
+        "energy_price": 526.0914396656175,
         "timestamp": "2025-06-25T11:40:00"
     },
     {
-        "hash_price": 0.0010571574473405506,
+        "hash_price": 0.0009173391151399746,
         "token_price": 0.0045000000000000005,
-        "energy_price": 445.9504702119028,
+        "energy_price": 341.4452027368867,
         "timestamp": "2025-06-25T11:45:00"
     },
     {
-        "hash_price": 0.0010454134115791464,
+        "hash_price": 0.0009130052595262212,
         "token_price": 0.0045000000000000005,
-        "energy_price": 325.96870037555425,
+        "energy_price": 259.6503795398889,
         "timestamp": "2025-06-25T11:50:00"
     },
     {
-        "hash_price": 0.001028516661642979,
+        "hash_price": 0.0008979935907943022,
         "token_price": 0.0045000000000000005,
-        "energy_price": 496.8429314941973,
+        "energy_price": 450.96414944796004,
         "timestamp": "2025-06-25T11:55:00"
     },
     {
-        "hash_price": 0.0010245182730330628,
+        "hash_price": 0.0008838389558468254,
         "token_price": 0.0045000000000000005,
-        "energy_price": 444.0776353325656,
+        "energy_price": 769.7155114070833,
         "timestamp": "2025-06-25T12:00:00"
     },
     {
-        "hash_price": 0.0010159437022342985,
+        "hash_price": 0.0008929412329132245,
         "token_price": 0.0045000000000000005,
-        "energy_price": 453.4370095350532,
+        "energy_price": 389.166963045476,
         "timestamp": "2025-06-25T12:05:00"
     },
     {
-        "hash_price": 0.0010076218971682368,
+        "hash_price": 0.0008937220316461611,
         "token_price": 0.0045000000000000005,
-        "energy_price": 542.9580108418826,
+        "energy_price": 559.4516019536708,
         "timestamp": "2025-06-25T12:10:00"
     },
     {
-        "hash_price": 0.0010150272679550982,
+        "hash_price": 0.0009072360926307754,
         "token_price": 0.0045000000000000005,
-        "energy_price": 683.1290780504382,
+        "energy_price": 606.0824168910796,
         "timestamp": "2025-06-25T12:15:00"
     },
     {
-        "hash_price": 0.001009829134246701,
+        "hash_price": 0.0009071110243514171,
         "token_price": 0.0045000000000000005,
-        "energy_price": 480.2913895761112,
+        "energy_price": 567.8109828057712,
         "timestamp": "2025-06-25T12:20:00"
     },
     {
-        "hash_price": 0.0010211457448743332,
+        "hash_price": 0.0008847055464409161,
         "token_price": 0.0045000000000000005,
-        "energy_price": 561.077903053614,
+        "energy_price": 744.3121272896111,
         "timestamp": "2025-06-25T12:25:00"
     },
     {
-        "hash_price": 0.0010172669950756807,
+        "hash_price": 0.000880848441660938,
         "token_price": 0.0045000000000000005,
-        "energy_price": 644.0026115455929,
+        "energy_price": 517.4182772284142,
         "timestamp": "2025-06-25T12:30:00"
     },
     {
-        "hash_price": 0.0010206404588323874,
+        "hash_price": 0.0008964953997187137,
         "token_price": 0.0045000000000000005,
-        "energy_price": 687.0820236053742,
+        "energy_price": 560.0693357742734,
         "timestamp": "2025-06-25T12:35:00"
     },
     {
-        "hash_price": 0.001032872758327053,
+        "hash_price": 0.0008917968796726005,
         "token_price": 0.0045000000000000005,
-        "energy_price": 525.6561583856612,
+        "energy_price": 712.2375536235106,
         "timestamp": "2025-06-25T12:40:00"
     },
     {
-        "hash_price": 0.0010146430540238383,
+        "hash_price": 0.0008975875483361784,
         "token_price": 0.0045000000000000005,
-        "energy_price": 578.4289011913284,
+        "energy_price": 748.1205473708521,
         "timestamp": "2025-06-25T12:45:00"
     },
     {
-        "hash_price": 0.0010403505091148223,
+        "hash_price": 0.0008917042849572543,
         "token_price": 0.0045000000000000005,
-        "energy_price": 841.4322597468479,
+        "energy_price": 616.2377200499755,
         "timestamp": "2025-06-25T12:50:00"
     },
     {
-        "hash_price": 0.001053326186031937,
+        "hash_price": 0.0009027847327633542,
         "token_price": 0.0045000000000000005,
-        "energy_price": 612.4068922825593,
+        "energy_price": 859.2165502738055,
         "timestamp": "2025-06-25T12:55:00"
     },
     {
-        "hash_price": 0.0010542059144715015,
+        "hash_price": 0.0009129803815773875,
         "token_price": 0.0045000000000000005,
-        "energy_price": 833.4329203652069,
+        "energy_price": 856.343282917346,
         "timestamp": "2025-06-25T13:00:00"
     },
     {
-        "hash_price": 0.0010836872034352732,
+        "hash_price": 0.0009014249163156336,
         "token_price": 0.0045000000000000005,
-        "energy_price": 791.3754557243913,
+        "energy_price": 751.4076632831034,
         "timestamp": "2025-06-25T13:05:00"
     },
     {
-        "hash_price": 0.0010891540954403216,
+        "hash_price": 0.0009167444363625335,
         "token_price": 0.0045000000000000005,
-        "energy_price": 979.5434158079495,
+        "energy_price": 788.6091244250714,
         "timestamp": "2025-06-25T13:10:00"
     },
     {
-        "hash_price": 0.0011047427670119452,
+        "hash_price": 0.0009306174434056277,
         "token_price": 0.0045000000000000005,
-        "energy_price": 877.8157118224811,
+        "energy_price": 819.8836108732293,
         "timestamp": "2025-06-25T13:15:00"
     },
     {
-        "hash_price": 0.0011081808952277152,
+        "hash_price": 0.0009249121862425435,
         "token_price": 0.0045000000000000005,
-        "energy_price": 881.3023332260607,
+        "energy_price": 1030.930791122631,
         "timestamp": "2025-06-25T13:20:00"
     },
     {
-        "hash_price": 0.0011113693567526416,
+        "hash_price": 0.0009340484978063788,
         "token_price": 0.0045000000000000005,
-        "energy_price": 902.9282636372484,
+        "energy_price": 923.2033032883069,
         "timestamp": "2025-06-25T13:25:00"
     },
     {
-        "hash_price": 0.0011086981957077883,
+        "hash_price": 0.0009203754491235417,
         "token_price": 0.0045000000000000005,
-        "energy_price": 999.2358442951571,
+        "energy_price": 792.3437270978234,
         "timestamp": "2025-06-25T13:30:00"
     },
     {
-        "hash_price": 0.0011068789505232018,
+        "hash_price": 0.0009261708066366051,
         "token_price": 0.0045000000000000005,
-        "energy_price": 927.1216397132894,
+        "energy_price": 974.2219284410128,
         "timestamp": "2025-06-25T13:35:00"
     },
     {
-        "hash_price": 0.0011116111035452609,
+        "hash_price": 0.0009208535743087981,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1147.3563984770083,
+        "energy_price": 818.2512415609785,
         "timestamp": "2025-06-25T13:40:00"
     },
     {
-        "hash_price": 0.0011026676856439328,
+        "hash_price": 0.000919872755486309,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1038.5759763144472,
+        "energy_price": 1045.3677368030762,
         "timestamp": "2025-06-25T13:45:00"
     },
     {
-        "hash_price": 0.001079672070709607,
+        "hash_price": 0.0009294306412886829,
         "token_price": 0.0045000000000000005,
-        "energy_price": 880.1549776479694,
+        "energy_price": 1142.6973990706388,
         "timestamp": "2025-06-25T13:50:00"
     },
     {
-        "hash_price": 0.0010879539663610862,
+        "hash_price": 0.0009406838550303581,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1230.8893859339887,
+        "energy_price": 1089.4153623382417,
         "timestamp": "2025-06-25T13:55:00"
     },
     {
-        "hash_price": 0.001086979765397239,
+        "hash_price": 0.0009378185713119153,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1279.0892269776098,
+        "energy_price": 1096.143392869408,
         "timestamp": "2025-06-25T14:00:00"
     },
     {
-        "hash_price": 0.001090336073350018,
+        "hash_price": 0.0009486207119562425,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1163.661863728147,
+        "energy_price": 1167.6537437574407,
         "timestamp": "2025-06-25T14:05:00"
     },
     {
-        "hash_price": 0.0010872865355538565,
+        "hash_price": 0.0009629292058173388,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1356.8536160709457,
+        "energy_price": 1150.5920646221482,
         "timestamp": "2025-06-25T14:10:00"
     },
     {
-        "hash_price": 0.0010549892913493798,
+        "hash_price": 0.0009762474267587303,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1249.128570195161,
+        "energy_price": 1324.7910849516095,
         "timestamp": "2025-06-25T14:15:00"
     },
     {
-        "hash_price": 0.0010700107302283716,
+        "hash_price": 0.0009804218094928974,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1261.1254748270958,
+        "energy_price": 1243.2112854558247,
         "timestamp": "2025-06-25T14:20:00"
     },
     {
-        "hash_price": 0.0010728254206292796,
+        "hash_price": 0.0009837794653459748,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1577.428981949646,
+        "energy_price": 1138.180467131514,
         "timestamp": "2025-06-25T14:25:00"
     },
     {
-        "hash_price": 0.0010713068048459188,
+        "hash_price": 0.000998973810963969,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1276.2445122713525,
+        "energy_price": 1373.279071688903,
         "timestamp": "2025-06-25T14:30:00"
     },
     {
-        "hash_price": 0.001068569234714181,
+        "hash_price": 0.0009892726297900957,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1577.3657745566059,
+        "energy_price": 1325.4431576235856,
         "timestamp": "2025-06-25T14:35:00"
     },
     {
-        "hash_price": 0.0010682181200315781,
+        "hash_price": 0.0010019741195495277,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1356.9534886719453,
+        "energy_price": 1319.5869082336483,
         "timestamp": "2025-06-25T14:40:00"
     },
     {
-        "hash_price": 0.0010863856186656739,
+        "hash_price": 0.0010089025835374995,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1403.968297667088,
+        "energy_price": 1442.425401218457,
         "timestamp": "2025-06-25T14:45:00"
     },
     {
-        "hash_price": 0.0010843488914483044,
+        "hash_price": 0.001006151809919489,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1364.3391554492473,
+        "energy_price": 1474.7933698006636,
         "timestamp": "2025-06-25T14:50:00"
     },
     {
-        "hash_price": 0.0010918554346729813,
+        "hash_price": 0.00100463155248739,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1524.7435268457202,
+        "energy_price": 1451.6901115603039,
         "timestamp": "2025-06-25T14:55:00"
     },
     {
-        "hash_price": 0.0011134179058650076,
+        "hash_price": 0.0009963441086908488,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1614.7296130766954,
+        "energy_price": 1510.068331464099,
         "timestamp": "2025-06-25T15:00:00"
     },
     {
-        "hash_price": 0.0011046527546740136,
+        "hash_price": 0.000992040726907585,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1657.4250625784362,
+        "energy_price": 1725.1465403711804,
         "timestamp": "2025-06-25T15:05:00"
     },
     {
-        "hash_price": 0.0010912009605155931,
+        "hash_price": 0.0009821073608295115,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1853.765997185487,
+        "energy_price": 1559.3713221519297,
         "timestamp": "2025-06-25T15:10:00"
     },
     {
-        "hash_price": 0.0010810617436878371,
+        "hash_price": 0.0009619145968219594,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1594.816435323232,
+        "energy_price": 1656.0750720985957,
         "timestamp": "2025-06-25T15:15:00"
     },
     {
-        "hash_price": 0.001079738211628573,
+        "hash_price": 0.0009620504213254943,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1742.3160898857636,
+        "energy_price": 1606.2235090230715,
         "timestamp": "2025-06-25T15:20:00"
     },
     {
-        "hash_price": 0.0010706104518263622,
+        "hash_price": 0.0009856022125691397,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1891.970991102855,
+        "energy_price": 1711.4998664562756,
         "timestamp": "2025-06-25T15:25:00"
     },
     {
-        "hash_price": 0.0010571857051049761,
+        "hash_price": 0.0009912022315310093,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1730.458616870706,
+        "energy_price": 1866.6153627859949,
         "timestamp": "2025-06-25T15:30:00"
     },
     {
-        "hash_price": 0.001062177347661446,
+        "hash_price": 0.0009568516136529739,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1828.5284648220172,
+        "energy_price": 1745.1258916705247,
         "timestamp": "2025-06-25T15:35:00"
     },
     {
-        "hash_price": 0.0010744079267340967,
+        "hash_price": 0.0009714088483158489,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1807.5343779998911,
+        "energy_price": 1689.4559731539566,
         "timestamp": "2025-06-25T15:40:00"
     },
     {
-        "hash_price": 0.0010671033431057756,
+        "hash_price": 0.0009571711848163241,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1914.1105271360316,
+        "energy_price": 1939.864887116141,
         "timestamp": "2025-06-25T15:45:00"
     },
     {
-        "hash_price": 0.00107693001734267,
+        "hash_price": 0.0009586923173037063,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1726.9158892689359,
+        "energy_price": 1919.6788108721623,
         "timestamp": "2025-06-25T15:50:00"
     },
     {
-        "hash_price": 0.0010920100983114636,
+        "hash_price": 0.0009612079156078346,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2002.8832522892517,
+        "energy_price": 1922.9965633799238,
         "timestamp": "2025-06-25T15:55:00"
     },
     {
-        "hash_price": 0.0011121252653530042,
+        "hash_price": 0.0009620265175552305,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2060.396379306211,
+        "energy_price": 1947.4760865973922,
         "timestamp": "2025-06-25T16:00:00"
     },
     {
-        "hash_price": 0.0010992865605037674,
+        "hash_price": 0.000956377223041129,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2079.6478006783136,
+        "energy_price": 2118.0757150374957,
         "timestamp": "2025-06-25T16:05:00"
     },
     {
-        "hash_price": 0.001124669360250817,
+        "hash_price": 0.0009678945350847933,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2241.5738154259116,
+        "energy_price": 1974.7610233728528,
         "timestamp": "2025-06-25T16:10:00"
     },
     {
-        "hash_price": 0.0011191202032238127,
+        "hash_price": 0.0009710818437194169,
         "token_price": 0.0045000000000000005,
-        "energy_price": 1979.2550486303267,
+        "energy_price": 2166.0521585397123,
         "timestamp": "2025-06-25T16:15:00"
     },
     {
-        "hash_price": 0.0011280713370449282,
+        "hash_price": 0.000969320461865324,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2148.1431184387734,
+        "energy_price": 2340.7683008456443,
         "timestamp": "2025-06-25T16:20:00"
     },
     {
-        "hash_price": 0.0011429454431811973,
+        "hash_price": 0.0009706106368151154,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2129.425875085607,
+        "energy_price": 2261.2437725672858,
         "timestamp": "2025-06-25T16:25:00"
     },
     {
-        "hash_price": 0.001129792591357248,
+        "hash_price": 0.0009774457364691827,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2311.6533760969332,
+        "energy_price": 2266.5641036561287,
         "timestamp": "2025-06-25T16:30:00"
     },
     {
-        "hash_price": 0.0011369779048567695,
+        "hash_price": 0.0009909449176124393,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2169.8853626620776,
+        "energy_price": 2258.421451453085,
         "timestamp": "2025-06-25T16:35:00"
     },
     {
-        "hash_price": 0.0011049718983097807,
+        "hash_price": 0.0009947391419126564,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2159.869016548205,
+        "energy_price": 2446.0288872867127,
         "timestamp": "2025-06-25T16:40:00"
     },
     {
-        "hash_price": 0.0010939437289773015,
+        "hash_price": 0.001006081022616539,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2213.7001873083996,
+        "energy_price": 2598.252009038264,
         "timestamp": "2025-06-25T16:45:00"
     },
     {
-        "hash_price": 0.00108117035839803,
+        "hash_price": 0.0009866399162650988,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2342.8349481669165,
+        "energy_price": 2355.159697609034,
         "timestamp": "2025-06-25T16:50:00"
     },
     {
-        "hash_price": 0.0010637379951663293,
+        "hash_price": 0.0009788009623270995,
         "token_price": 0.0045000000000000005,
-        "energy_price": 2268.3169416801434,
+        "energy_price": 2368.147134861938,
         "timestamp": "2025-06-25T16:55:00"
     },
     {
-        "hash_price": 0.0010753810412693387,
+        "hash_price": 0.0009752092775498312,
         "token_price": 0.0045000000000000005,
-        "energy_price": 5926.746885325958,
+        "energy_price": 6087.485758330851,
         "timestamp": "2025-06-25T17:00:00"
     },
     {
-        "hash_price": 0.001079910141746286,
+        "hash_price": 0.0009762594320511927,
         "token_price": 0.004375000000000002,
-        "energy_price": 6198.536567782894,
+        "energy_price": 6108.744924747924,
         "timestamp": "2025-06-25T17:05:00"
     },
     {
-        "hash_price": 0.001076436161186178,
+        "hash_price": 0.0009487420746256273,
         "token_price": 0.004250000000000004,
-        "energy_price": 6243.316538372481,
+        "energy_price": 6075.150383487511,
         "timestamp": "2025-06-25T17:10:00"
     },
     {
-        "hash_price": 0.0010877286548959739,
+        "hash_price": 0.0009637976476302799,
         "token_price": 0.004125,
-        "energy_price": 6095.114165430618,
+        "energy_price": 6325.866750272971,
         "timestamp": "2025-06-25T17:15:00"
     },
     {
-        "hash_price": 0.0011045597631249013,
+        "hash_price": 0.0009520678089259343,
         "token_price": 0.004000000000000002,
-        "energy_price": 6223.746767876793,
+        "energy_price": 6402.886869599572,
         "timestamp": "2025-06-25T17:20:00"
     },
     {
-        "hash_price": 0.0011052521091420458,
+        "hash_price": 0.0009424719673854785,
         "token_price": 0.0038750000000000034,
-        "energy_price": 6385.449393002865,
+        "energy_price": 6359.1561801517855,
         "timestamp": "2025-06-25T17:25:00"
     },
     {
-        "hash_price": 0.0011163935722887427,
+        "hash_price": 0.0009464111263088545,
         "token_price": 0.00375,
-        "energy_price": 6357.2409290939195,
+        "energy_price": 6374.408900676253,
         "timestamp": "2025-06-25T17:30:00"
     },
     {
-        "hash_price": 0.00111169653898392,
+        "hash_price": 0.0009586544059920698,
         "token_price": 0.003625000000000002,
-        "energy_price": 6636.083527271371,
+        "energy_price": 6530.81880379183,
         "timestamp": "2025-06-25T17:35:00"
     },
     {
-        "hash_price": 0.0011327540871399816,
+        "hash_price": 0.0009685210183561907,
         "token_price": 0.0035000000000000035,
-        "energy_price": 6579.737682934146,
+        "energy_price": 6546.38167453065,
         "timestamp": "2025-06-25T17:40:00"
     },
     {
-        "hash_price": 0.0011446574189692307,
+        "hash_price": 0.0009578698649859925,
         "token_price": 0.003375,
-        "energy_price": 6671.776201262736,
+        "energy_price": 6558.30740221116,
         "timestamp": "2025-06-25T17:45:00"
     },
     {
-        "hash_price": 0.0011299035933201463,
+        "hash_price": 0.0009473304642931402,
         "token_price": 0.003250000000000002,
-        "energy_price": 6677.7375117679085,
+        "energy_price": 6849.902087038853,
         "timestamp": "2025-06-25T17:50:00"
     },
     {
-        "hash_price": 0.0011078109110244391,
+        "hash_price": 0.0009303998808100633,
         "token_price": 0.0031250000000000036,
-        "energy_price": 6701.005453242568,
+        "energy_price": 6804.504086292629,
         "timestamp": "2025-06-25T17:55:00"
     },
     {
-        "hash_price": 0.0011189153316187822,
+        "hash_price": 0.0009154595935529303,
         "token_price": 0.003,
-        "energy_price": 6817.535451966979,
+        "energy_price": 6791.498442804828,
         "timestamp": "2025-06-25T18:00:00"
     },
     {
-        "hash_price": 0.0011175026842333063,
+        "hash_price": 0.0009000469161934118,
         "token_price": 0.0028750000000000017,
-        "energy_price": 6935.792444614621,
+        "energy_price": 6813.45472279438,
         "timestamp": "2025-06-25T18:05:00"
     },
     {
-        "hash_price": 0.001122219180782171,
+        "hash_price": 0.0009016225645375651,
         "token_price": 0.0027500000000000037,
-        "energy_price": 6873.038684097437,
+        "energy_price": 7100.334761681016,
         "timestamp": "2025-06-25T18:10:00"
     },
     {
-        "hash_price": 0.0011322723633575681,
+        "hash_price": 0.0009043624776397286,
         "token_price": 0.002625,
-        "energy_price": 6795.554320240218,
+        "energy_price": 6858.018816266091,
         "timestamp": "2025-06-25T18:15:00"
     },
     {
-        "hash_price": 0.0011220103165434816,
+        "hash_price": 0.0008804477722864215,
         "token_price": 0.002500000000000002,
-        "energy_price": 6975.21040532958,
+        "energy_price": 7114.157075108134,
         "timestamp": "2025-06-25T18:20:00"
     },
     {
-        "hash_price": 0.0011197132954173796,
+        "hash_price": 0.0008956897603800263,
         "token_price": 0.0023750000000000034,
-        "energy_price": 6978.146947762115,
+        "energy_price": 7155.123784175104,
         "timestamp": "2025-06-25T18:25:00"
     },
     {
-        "hash_price": 0.0011104630213328518,
+        "hash_price": 0.0008906819868337074,
         "token_price": 0.0022500000000000003,
-        "energy_price": 7000.885597909866,
+        "energy_price": 7112.171517555937,
         "timestamp": "2025-06-25T18:30:00"
     },
     {
-        "hash_price": 0.0011139257977541206,
+        "hash_price": 0.000898949586860229,
         "token_price": 0.002125000000000002,
-        "energy_price": 7033.460432006764,
+        "energy_price": 7093.153843739301,
         "timestamp": "2025-06-25T18:35:00"
     },
     {
-        "hash_price": 0.0011195147139825962,
+        "hash_price": 0.0008931596774810056,
         "token_price": 0.0020000000000000035,
-        "energy_price": 7097.375322559004,
+        "energy_price": 6950.416845958918,
         "timestamp": "2025-06-25T18:40:00"
     },
     {
-        "hash_price": 0.0011275637620042898,
+        "hash_price": 0.000882829977221534,
         "token_price": 0.001875,
-        "energy_price": 6981.72064532398,
+        "energy_price": 6954.482221745855,
         "timestamp": "2025-06-25T18:45:00"
     },
     {
-        "hash_price": 0.001134046081441373,
+        "hash_price": 0.0008649575177669516,
         "token_price": 0.0017500000000000018,
-        "energy_price": 7122.724945086757,
+        "energy_price": 7069.306833595298,
         "timestamp": "2025-06-25T18:50:00"
     },
     {
-        "hash_price": 0.0011294748260800252,
+        "hash_price": 0.0008442443419399171,
         "token_price": 0.0016250000000000036,
-        "energy_price": 7165.527415885816,
+        "energy_price": 7066.407731454225,
         "timestamp": "2025-06-25T18:55:00"
     },
     {
-        "hash_price": 0.0011264965592644631,
+        "hash_price": 0.0008394191717634428,
         "token_price": 0.0015,
-        "energy_price": 7125.783283783374,
+        "energy_price": 7132.133705010073,
         "timestamp": "2025-06-25T19:00:00"
     },
     {
-        "hash_price": 0.0011443373436861737,
+        "hash_price": 0.0008501681228658414,
         "token_price": 0.0015,
-        "energy_price": 7270.503655920782,
+        "energy_price": 7230.75901706737,
         "timestamp": "2025-06-25T19:05:00"
     },
     {
-        "hash_price": 0.0011428915025073108,
+        "hash_price": 0.0008426287607393552,
         "token_price": 0.0015,
-        "energy_price": 7350.238072931447,
+        "energy_price": 7270.762961647674,
         "timestamp": "2025-06-25T19:10:00"
     },
     {
-        "hash_price": 0.001130066217615621,
+        "hash_price": 0.0008359452389764757,
         "token_price": 0.0015,
-        "energy_price": 7229.03991044156,
+        "energy_price": 7388.1572558583775,
         "timestamp": "2025-06-25T19:15:00"
     },
     {
-        "hash_price": 0.0011327674016251383,
+        "hash_price": 0.000823098243369921,
         "token_price": 0.0015,
-        "energy_price": 7221.170188185041,
+        "energy_price": 7093.383765317301,
         "timestamp": "2025-06-25T19:20:00"
     },
     {
-        "hash_price": 0.0011213556508542937,
+        "hash_price": 0.0008320694332959798,
         "token_price": 0.0015,
-        "energy_price": 7263.528115608509,
+        "energy_price": 7161.365024521273,
         "timestamp": "2025-06-25T19:25:00"
     },
     {
-        "hash_price": 0.0011215998933851955,
+        "hash_price": 0.0008419386171492625,
         "token_price": 0.0015,
-        "energy_price": 7087.269505671431,
+        "energy_price": 7427.924461847198,
         "timestamp": "2025-06-25T19:30:00"
     },
     {
-        "hash_price": 0.0011159194166182873,
+        "hash_price": 0.0008323396220928785,
         "token_price": 0.0015,
-        "energy_price": 7271.865458456443,
+        "energy_price": 7443.082952435642,
         "timestamp": "2025-06-25T19:35:00"
     },
     {
-        "hash_price": 0.0011215846044459006,
+        "hash_price": 0.0008342945161639948,
         "token_price": 0.0015,
-        "energy_price": 7501.064094807254,
+        "energy_price": 7311.979552392609,
         "timestamp": "2025-06-25T19:40:00"
     },
     {
-        "hash_price": 0.001136906608680928,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7220.248338541304,
+        "hash_price": 0.0008225209023953679,
+        "token_price": 0.0015,
+        "energy_price": 7421.9274871962025,
         "timestamp": "2025-06-25T19:45:00"
     },
     {
-        "hash_price": 0.0011462246141780564,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7081.962781284237,
+        "hash_price": 0.0008168872948299658,
+        "token_price": 0.0015,
+        "energy_price": 7310.578262991707,
         "timestamp": "2025-06-25T19:50:00"
     },
     {
-        "hash_price": 0.0011384480420960704,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7504.956024322342,
+        "hash_price": 0.0008165098377547357,
+        "token_price": 0.0015,
+        "energy_price": 7380.7290839590605,
         "timestamp": "2025-06-25T19:55:00"
     },
     {
-        "hash_price": 0.001155689800983191,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7218.64896925244,
+        "hash_price": 0.0008236359542053717,
+        "token_price": 0.0015,
+        "energy_price": 7263.360629590315,
         "timestamp": "2025-06-25T20:00:00"
     },
     {
-        "hash_price": 0.0011605735411626314,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7318.859680131658,
+        "hash_price": 0.0008219900117737277,
+        "token_price": 0.0015,
+        "energy_price": 7191.119078631118,
         "timestamp": "2025-06-25T20:05:00"
     },
     {
-        "hash_price": 0.0011820073650858026,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7261.776637425363,
+        "hash_price": 0.000832969005459714,
+        "token_price": 0.0015,
+        "energy_price": 7223.839692208358,
         "timestamp": "2025-06-25T20:10:00"
     },
     {
-        "hash_price": 0.0011882925885314734,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7117.422640704495,
+        "hash_price": 0.0008186640833922744,
+        "token_price": 0.0015,
+        "energy_price": 7228.927352290301,
         "timestamp": "2025-06-25T20:15:00"
     },
     {
-        "hash_price": 0.0011819247769160595,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7242.626728509194,
+        "hash_price": 0.0008185603687672918,
+        "token_price": 0.0015,
+        "energy_price": 7279.471954104521,
         "timestamp": "2025-06-25T20:20:00"
     },
     {
-        "hash_price": 0.001173117313916068,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7101.1992316365795,
+        "hash_price": 0.0008222931502352556,
+        "token_price": 0.0015,
+        "energy_price": 7143.621059519699,
         "timestamp": "2025-06-25T20:25:00"
     },
     {
-        "hash_price": 0.001162808287806734,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7261.413478140456,
+        "hash_price": 0.0008318283611331798,
+        "token_price": 0.0015,
+        "energy_price": 7182.696730263699,
         "timestamp": "2025-06-25T20:30:00"
     },
     {
-        "hash_price": 0.0011756299661898567,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7094.439560186579,
+        "hash_price": 0.0008370032795585882,
+        "token_price": 0.0015,
+        "energy_price": 7093.282757172252,
         "timestamp": "2025-06-25T20:35:00"
     },
     {
-        "hash_price": 0.0011863157369438311,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7015.919108949512,
+        "hash_price": 0.0008290194773526699,
+        "token_price": 0.0015,
+        "energy_price": 6994.978179269203,
         "timestamp": "2025-06-25T20:40:00"
     },
     {
-        "hash_price": 0.001174568759243089,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6951.645361997658,
+        "hash_price": 0.0008319001130881729,
+        "token_price": 0.0015,
+        "energy_price": 6991.31935085986,
         "timestamp": "2025-06-25T20:45:00"
     },
     {
-        "hash_price": 0.001178263620016242,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7213.013235801046,
+        "hash_price": 0.0008371605856605782,
+        "token_price": 0.0015,
+        "energy_price": 6989.864289432393,
         "timestamp": "2025-06-25T20:50:00"
     },
     {
-        "hash_price": 0.0011825536489871588,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6950.914598413641,
+        "hash_price": 0.0008560264077283593,
+        "token_price": 0.0015,
+        "energy_price": 7041.659298132544,
         "timestamp": "2025-06-25T20:55:00"
     },
     {
-        "hash_price": 0.0011793974404221814,
-        "token_price": 0.013161318293504205,
-        "energy_price": 7077.88387947715,
+        "hash_price": 0.0008435618191524771,
+        "token_price": 0.0015,
+        "energy_price": 7047.612582439605,
         "timestamp": "2025-06-25T21:00:00"
     },
     {
-        "hash_price": 0.0011840694664812662,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6950.086397319552,
+        "hash_price": 0.0008411198329041362,
+        "token_price": 0.0015,
+        "energy_price": 6861.600353749074,
         "timestamp": "2025-06-25T21:05:00"
     },
     {
-        "hash_price": 0.0011815350423047628,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6883.485360345398,
+        "hash_price": 0.0008629247963633966,
+        "token_price": 0.0015,
+        "energy_price": 6918.799021230021,
         "timestamp": "2025-06-25T21:10:00"
     },
     {
-        "hash_price": 0.0011706035943585527,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6887.6177763193655,
+        "hash_price": 0.0008768789480384162,
+        "token_price": 0.0015,
+        "energy_price": 7059.54810831985,
         "timestamp": "2025-06-25T21:15:00"
     },
     {
-        "hash_price": 0.0011962829802872688,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6858.055686598286,
+        "hash_price": 0.0008710869486780445,
+        "token_price": 0.0015,
+        "energy_price": 6872.716058085964,
         "timestamp": "2025-06-25T21:20:00"
     },
     {
-        "hash_price": 0.001199658894065457,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6859.297790676994,
+        "hash_price": 0.0008590605670902077,
+        "token_price": 0.0015,
+        "energy_price": 6709.156385741617,
         "timestamp": "2025-06-25T21:25:00"
     },
     {
-        "hash_price": 0.0011953774515528462,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6766.4364521694,
+        "hash_price": 0.0008296560752095247,
+        "token_price": 0.0015,
+        "energy_price": 6771.017781261372,
         "timestamp": "2025-06-25T21:30:00"
     },
     {
-        "hash_price": 0.0012051097772132204,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6824.445593526035,
+        "hash_price": 0.0008342414818098749,
+        "token_price": 0.0015,
+        "energy_price": 6806.187838708503,
         "timestamp": "2025-06-25T21:35:00"
     },
     {
-        "hash_price": 0.001206645760525919,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6719.5388546658,
+        "hash_price": 0.0008461836497619047,
+        "token_price": 0.0015,
+        "energy_price": 6628.308481695131,
         "timestamp": "2025-06-25T21:40:00"
     },
     {
-        "hash_price": 0.0011840596672759625,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6500.007743948416,
+        "hash_price": 0.000841867674907008,
+        "token_price": 0.0015,
+        "energy_price": 6596.871227987285,
         "timestamp": "2025-06-25T21:45:00"
     },
     {
-        "hash_price": 0.0011918649162151764,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6545.965299172384,
+        "hash_price": 0.0008434116245882403,
+        "token_price": 0.0015,
+        "energy_price": 6686.553899097988,
         "timestamp": "2025-06-25T21:50:00"
     },
     {
-        "hash_price": 0.0011897996544756179,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6336.770690026938,
+        "hash_price": 0.000856299902708307,
+        "token_price": 0.0015,
+        "energy_price": 6514.85192174401,
         "timestamp": "2025-06-25T21:55:00"
     },
     {
-        "hash_price": 0.001194940055711639,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6439.450555228069,
+        "hash_price": 0.0008480992558118063,
+        "token_price": 0.0015,
+        "energy_price": 6510.81654968044,
         "timestamp": "2025-06-25T22:00:00"
     },
     {
-        "hash_price": 0.0011719109697300425,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6539.581476547013,
+        "hash_price": 0.0008633004995730242,
+        "token_price": 0.0015,
+        "energy_price": 6481.123079404744,
         "timestamp": "2025-06-25T22:05:00"
     },
     {
-        "hash_price": 0.0011784343391771383,
-        "token_price": 0.013161318293504205,
-        "energy_price": 6352.089631471641,
+        "hash_price": 0.0008662071365761679,
+        "token_price": 0.0015,
+        "energy_price": 6236.2640527710355,
         "timestamp": "2025-06-25T22:10:00"
     },
     {
-        "hash_price": 0.0011828009106939594,
+        "hash_price": 0.0008661678548959881,
         "token_price": 0.0015,
-        "energy_price": 6082.090264662233,
+        "energy_price": 6344.311519609041,
         "timestamp": "2025-06-25T22:15:00"
     },
     {
-        "hash_price": 0.0011691363780929533,
+        "hash_price": 0.0008651018610051051,
         "token_price": 0.0015,
-        "energy_price": 6177.198632785743,
+        "energy_price": 6370.924599449745,
         "timestamp": "2025-06-25T22:20:00"
     },
     {
-        "hash_price": 0.001191402698961898,
+        "hash_price": 0.0008611777540925518,
         "token_price": 0.0015,
-        "energy_price": 6403.4226702698925,
+        "energy_price": 6038.873400642975,
         "timestamp": "2025-06-25T22:25:00"
     },
     {
-        "hash_price": 0.0011797262078781072,
+        "hash_price": 0.0008591644019578529,
         "token_price": 0.0015,
-        "energy_price": 6067.0294910565835,
+        "energy_price": 6285.377667411873,
         "timestamp": "2025-06-25T22:30:00"
     },
     {
-        "hash_price": 0.0011950365830763396,
+        "hash_price": 0.000868527556449118,
         "token_price": 0.0015,
-        "energy_price": 6068.9614109054755,
+        "energy_price": 6106.393389165525,
         "timestamp": "2025-06-25T22:35:00"
     },
     {
-        "hash_price": 0.0012344087754273252,
+        "hash_price": 0.0008727186373063881,
         "token_price": 0.0015,
-        "energy_price": 6018.689196648595,
+        "energy_price": 5980.158196015815,
         "timestamp": "2025-06-25T22:40:00"
     },
     {
-        "hash_price": 0.001237091407826452,
+        "hash_price": 0.0008590166649475445,
         "token_price": 0.0015,
-        "energy_price": 5925.448881959637,
+        "energy_price": 5885.561463367778,
         "timestamp": "2025-06-25T22:45:00"
     },
     {
-        "hash_price": 0.0012235080624569755,
+        "hash_price": 0.0008427294260756693,
         "token_price": 0.0015,
-        "energy_price": 5942.69718618462,
+        "energy_price": 5912.476972390449,
         "timestamp": "2025-06-25T22:50:00"
     },
     {
-        "hash_price": 0.0012275080248032304,
+        "hash_price": 0.000838057205684482,
         "token_price": 0.0015,
-        "energy_price": 5816.786479652973,
+        "energy_price": 5709.014550689233,
         "timestamp": "2025-06-25T22:55:00"
     },
     {
-        "hash_price": 0.001209073525922326,
+        "hash_price": 0.0008382027505665283,
         "token_price": 0.0015,
-        "energy_price": 5774.828808341304,
+        "energy_price": 5695.905460655247,
         "timestamp": "2025-06-25T23:00:00"
     },
     {
-        "hash_price": 0.0011981593700912396,
+        "hash_price": 0.0008384718217170702,
         "token_price": 0.0015,
-        "energy_price": 5725.277778077244,
+        "energy_price": 5599.245728996621,
         "timestamp": "2025-06-25T23:05:00"
     },
     {
-        "hash_price": 0.0011953036626959786,
+        "hash_price": 0.0008465064024603847,
         "token_price": 0.0015,
-        "energy_price": 5870.584597730759,
+        "energy_price": 5649.532529830614,
         "timestamp": "2025-06-25T23:10:00"
     },
     {
-        "hash_price": 0.001189531952889711,
+        "hash_price": 0.0008251003079518438,
         "token_price": 0.0015,
-        "energy_price": 5685.747823231684,
+        "energy_price": 5461.944524389036,
         "timestamp": "2025-06-25T23:15:00"
     },
     {
-        "hash_price": 0.0012196183301782576,
+        "hash_price": 0.0008275984006237508,
         "token_price": 0.0015,
-        "energy_price": 5550.317698368373,
+        "energy_price": 5347.358845497988,
         "timestamp": "2025-06-25T23:20:00"
     },
     {
-        "hash_price": 0.001210926836075954,
-        "token_price": 0.0015,
-        "energy_price": 5452.828773147413,
+        "hash_price": 0.0008291518132418435,
+        "token_price": 0.011457332567187995,
+        "energy_price": 5436.958395179074,
         "timestamp": "2025-06-25T23:25:00"
     },
     {
-        "hash_price": 0.001165172897124719,
-        "token_price": 0.0015,
-        "energy_price": 5285.907361056181,
+        "hash_price": 0.0008035285892741366,
+        "token_price": 0.011457332567187995,
+        "energy_price": 5345.364481036962,
         "timestamp": "2025-06-25T23:30:00"
     },
     {
-        "hash_price": 0.001163831728053933,
-        "token_price": 0.0015,
-        "energy_price": 5196.932897477604,
+        "hash_price": 0.0007922169103361183,
+        "token_price": 0.011457332567187995,
+        "energy_price": 5162.627911196947,
         "timestamp": "2025-06-25T23:35:00"
     },
     {
-        "hash_price": 0.0011674462104746186,
-        "token_price": 0.0015,
-        "energy_price": 5252.654423800123,
+        "hash_price": 0.0007919567835312457,
+        "token_price": 0.011457332567187995,
+        "energy_price": 5240.24896523967,
         "timestamp": "2025-06-25T23:40:00"
     },
     {
-        "hash_price": 0.0011735848204705386,
-        "token_price": 0.0015,
-        "energy_price": 5118.187407264179,
+        "hash_price": 0.0007808824170501903,
+        "token_price": 0.011457332567187995,
+        "energy_price": 5341.420563906153,
         "timestamp": "2025-06-25T23:45:00"
     },
     {
-        "hash_price": 0.001166890407366113,
-        "token_price": 0.0015,
-        "energy_price": 5075.596718523543,
+        "hash_price": 0.0007803442949960753,
+        "token_price": 0.011457332567187995,
+        "energy_price": 5110.234312258263,
         "timestamp": "2025-06-25T23:50:00"
     },
     {
-        "hash_price": 0.001171623530296123,
-        "token_price": 0.0015,
-        "energy_price": 5051.386415409885,
+        "hash_price": 0.0007818436636504485,
+        "token_price": 0.011457332567187995,
+        "energy_price": 4950.121547495975,
         "timestamp": "2025-06-25T23:55:00"
     }
 ]
